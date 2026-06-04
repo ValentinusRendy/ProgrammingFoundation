@@ -38,7 +38,7 @@ public static List<Customer> readFile(String filename){
         } 
         sc.close();
     } catch(FileNotFoundException e){
-            System.out.println("File tidak ditemukan");
+            System.out.println("File tidak ditemukann");
         }
 
     return results;
