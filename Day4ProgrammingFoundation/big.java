@@ -6,7 +6,7 @@ public class big {
         ArrayList<String> applicants = new ArrayList<>();
         HashSet<String> existingLoan = new HashSet<>();
 
-        applicants.addAll(Arrays.asList("Rina", "Budi", "Andi", "Sari"));
+        applicants.addAll(Arrays.asList("Rina", "Budi", "Andi", "Sar"));
         existingLoan.addAll(Arrays.asList("Budi", "Budi", "Sari"));
 
         // System.out.println(existingLoan);
